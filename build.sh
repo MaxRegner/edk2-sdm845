@@ -27,6 +27,7 @@ DEVICES=(
 	odin-base
 	akershus
 	equuleus
+	kugo
 )
 #####################################
 
